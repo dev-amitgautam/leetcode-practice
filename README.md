@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Array
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
