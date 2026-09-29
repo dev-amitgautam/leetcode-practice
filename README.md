@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
