@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-amitgautam/leetcode-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-amitgautam/leetcode-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-amitgautam/leetcode-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-amitgautam/leetcode-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
