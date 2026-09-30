@@ -9,30 +9,31 @@ class Solution:
         if grid[0][0] == ')' or grid[m - 1][n - 1] == '(':
             return False
 
-        dp = [[set() for _ in range(n)] for _ in range(m)]
-
-        dp[0][0].add(1)
+        dp = [set() for _ in range(n)]
 
         for i in range(m):
             for j in range(n):
 
+                new_dp = set()
+
                 if i == 0 and j == 0:
-                    continue
+                    new_dp.add(1)
 
-                change = 1 if grid[i][j] == '(' else -1
+                else:
+                    if i > 0:
+                        new_dp.update(dp[j])
 
-                if i > 0:
-                    for balance in dp[i - 1][j]:
-                        new_balance = balance + change
+                    if j > 0:
+                        new_dp.update(dp[j - 1])
 
-                        if new_balance >= 0:
-                            dp[i][j].add(new_balance)
+                    change = 1 if grid[i][j] == '(' else -1
 
-                if j > 0:
-                    for balance in dp[i][j - 1]:
-                        new_balance = balance + change
+                    new_dp = {
+                        balance + change
+                        for balance in new_dp
+                        if balance + change >= 0
+                    }
 
-                        if new_balance >= 0:
-                            dp[i][j].add(new_balance)
+                dp[j] = new_dp
 
-        return 0 in dp[m - 1][n - 1]
+        return 0 in dp[n - 1]
