@@ -61,4 +61,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4084-maximize-sum-of-squares-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4084-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
