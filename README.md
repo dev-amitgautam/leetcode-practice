@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-amitgautam/leetcode-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4084-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
