@@ -1,16 +1,20 @@
 class Solution:
     def removeDuplicates(self, s: str, k: int) -> str:
-        stack = []
+        seen = []
 
         for ch in s:
-            if stack and stack[-1][0] == ch:
-                stack[-1][1] += 1
-            else:
-                stack.append([ch, 1])
+            seen.append(ch)
 
-            if stack[-1][1] == k:
-                stack.pop()
+            if len(seen) >= k:
+                isDuplicate = False
+                temp = seen[-k:]
+                for i, c in enumerate(temp):
+                    if temp[i] != temp[i-1]:
+                        break
+                    if i == len(temp) - 1: 
+                        isDuplicate = True
 
-        return ''.join(ch * count for ch, count in stack)
-            
-                    
+                if isDuplicate:
+                    del seen[-k:]
+
+        return ''.join(seen)
