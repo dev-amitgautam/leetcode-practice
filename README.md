@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Hash Table
 |  |
 | ------- |
