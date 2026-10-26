@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-amitgautam/leetcode-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Hash Table
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
