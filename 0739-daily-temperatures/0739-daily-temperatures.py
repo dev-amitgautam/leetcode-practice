@@ -10,11 +10,5 @@ class Solution:
                 res[last] = i - last
 
             seen.append(i)
-
-            # for warm in temperatures[i+1:]:
-            #     count += 1
-            #     if warm > temperatures[i]:
-            #         res[i] = count
-            #         break
             
         return res
