@@ -1,7 +1,9 @@
 class Solution:
     def runningSum(self, nums: list[int]) -> list[int]:
-        prefix = [0] * (len(nums)+1)
         for i in range(len(nums)):
-            prefix[i+1] = prefix[i] + nums[i]
+            if i == 0:
+                continue
 
-        return prefix[1:]
+            nums[i] = nums[i] + nums[i-1]
+
+        return nums
