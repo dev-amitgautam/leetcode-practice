@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +88,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0739-daily-temperatures) |
+## Graph Theory
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
