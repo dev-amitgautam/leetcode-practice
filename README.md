@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1603-running-sum-of-1d-array](https://github.com/dev-amitgautam/leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-amitgautam/leetcode-practice/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+| [4105-smallest-unique-subarray](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4105-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0713-subarray-product-less-than-k) |
+| [4105-smallest-unique-subarray](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4105-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dev-amitgautam/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dev-amitgautam/leetcode-practice/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
+| [4105-smallest-unique-subarray](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4105-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +105,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [4104-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4104-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4105-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4105-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [4105-smallest-unique-subarray](https://github.com/dev-amitgautam/leetcode-practice/tree/master/4105-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
